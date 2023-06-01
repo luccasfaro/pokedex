@@ -144,16 +144,16 @@ body.modo-escuro {
      background-color: #a6b91a;
 }
 .tipo-voador {
-     background: linear-gradient(#6BC1F2, #B4B4B4);
+     background-color: #84b2cc;
 }
 .tipo-normal {
      background-color: #B4B4B4;
 }
 .tipo-eletrico {
-     background-color: #E8E83B;
+     background-color: #dbdb25;
 }
 .tipo-terrestre {
-     background: linear-gradient(#D8D800, #575700);
+     background-color: #838300;
 }
 
 #container .cartao-pokemon p {
